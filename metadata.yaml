@@ -1,0 +1,44 @@
+_repo: Bedside-Manner_32864
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vidmer
+    aliases:
+    - Vidmer, Rene
+    - Vidmer, René
+    gutenberg_agent_id: '34106'
+    url: http://www.gutenberg.org/2009/agents/34106
+covers:
+- cover_type: archival
+  image_path: 32864-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Samachson, Joseph
+    aliases:
+    - Samachson, Joe
+    - Morrison, William
+    - Sterling, Brett
+    birthdate: 1906
+    deathdate: 1980
+    gutenberg_agent_id: '33434'
+    url: http://www.gutenberg.org/2009/agents/33434
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
+description: ''
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Beauty, Personal -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Accident victims -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: Bedside Manner
+url: http://www.gutenberg.org/ebooks/32864
